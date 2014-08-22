@@ -1,0 +1,22 @@
+{
+  "name": "app-counter",
+  "version": "0.0.0",
+  "description": "A simple counter for apps created at events & workshops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jr0cket/salesforce-app-counter"
+  },
+  "keywords": [
+    "salesforce"
+  ],
+  "author": "John Stevenson",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/jr0cket/salesforce-app-counter/issues"
+  },
+  "homepage": "https://github.com/jr0cket/salesforce-app-counter"
+}
